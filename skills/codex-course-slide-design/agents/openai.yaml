@@ -1,0 +1,4 @@
+interface:
+  display_name: "Дизайн презентаций курса Codex"
+  short_description: "Тёмные HTML-слайды по образцу урока CDsk01"
+  default_prompt: "Используй $codex-course-slide-design, чтобы оформить мой урок по образцу презентации CDsk01."

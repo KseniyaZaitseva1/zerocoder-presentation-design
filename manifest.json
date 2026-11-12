@@ -1,0 +1,67 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 180,
+    "sha256": "b5679e8afb364cac771ba31f36e07bc785ff0a95d3ef78e5342a39b5a902f141"
+  },
+  {
+    "path": "docs/content-guide.md",
+    "bytes": 7593,
+    "sha256": "2da90c5117807c35a49ca7190a4c99e7ef09c50947054ad28e7026aee9bba7d8"
+  },
+  {
+    "path": "docs/design-system.md",
+    "bytes": 5105,
+    "sha256": "1c7b3bd0a61967a0af6776628c225695a337aedfa35d3e359b40a4209a8b195d"
+  },
+  {
+    "path": "docs/gallery-guide.md",
+    "bytes": 1117,
+    "sha256": "94f3503c4ed590052b84617cc77133feef25e5502c4740dc76698766d9a6ce79"
+  },
+  {
+    "path": "docs/skill-guide.md",
+    "bytes": 7984,
+    "sha256": "13c08685e8fa6db597fa8e8444c1aaa8c1e3138002b0bebf260217c6e7c693c6"
+  },
+  {
+    "path": "docs/workflow.md",
+    "bytes": 4160,
+    "sha256": "a58978303298fd2a0fc4fa4ba554105ff4a7aea06c9aa63eca614718f5bf5199"
+  },
+  {
+    "path": "examples/gallery.html",
+    "bytes": 2739134,
+    "sha256": "d1f17f4756420204dd0e2a43c5dfd50440c7c8883f888b4265d6058e16c56731"
+  },
+  {
+    "path": "examples/mcp-lesson.html",
+    "bytes": 56272,
+    "sha256": "fd08416edb2220161fb01d6025307e4b95fde2234c54de0e3faf21f1339d5baa"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5415,
+    "sha256": "5ed1476e8e78c6a5a57a396a48798d10e33f6029cf6db6095a4b5213cef99222"
+  },
+  {
+    "path": "skills/codex-course-slide-design/agents/openai.yaml",
+    "bytes": 340,
+    "sha256": "e939d957d0e245f9bc6d542b4ea08d97a3c23af71e57fd98e9b139eac495763d"
+  },
+  {
+    "path": "skills/codex-course-slide-design/assets/deck.html",
+    "bytes": 18062,
+    "sha256": "50dc8c864d87d18858deb461f1f49be61147c16b41a926f599d076df88a38eac"
+  },
+  {
+    "path": "skills/codex-course-slide-design/SKILL.md",
+    "bytes": 5956,
+    "sha256": "f676f707be5adc6d0d64c50d5144b80c03994cb79aaa6185f40ba9f7627fe7c0"
+  },
+  {
+    "path": "templates/lesson-brief.md",
+    "bytes": 601,
+    "sha256": "f0e2deadd2f9659dd8eb79881826d116760ce6eb1874cc789a19abb13fe65459"
+  }
+]

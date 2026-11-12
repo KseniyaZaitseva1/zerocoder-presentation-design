@@ -21,8 +21,8 @@
   },
   {
     "path": "docs/skill-guide.md",
-    "bytes": 7930,
-    "sha256": "4ee3842364269eb0c28c9dfc17c9e960f7203736318dc488e0bfc22e61ef2951"
+    "bytes": 7966,
+    "sha256": "b614a511fcadd43b8822a3681b3578b26eb93ad3945064396ff55ab51e35cec8"
   },
   {
     "path": "docs/workflow.md",
@@ -40,9 +40,19 @@
     "sha256": "953bb21ac16d4de7efc65bf77fef6e10367c367783ca16d9c65bca0e9fbfd2df"
   },
   {
+    "path": "PORTFOLIO.md",
+    "bytes": 6900,
+    "sha256": "d261877352291b0c25ed1f7989da144f75c5985c5a5e820a0f5a9a5585fd81c9"
+  },
+  {
+    "path": "portfolio/cover.svg",
+    "bytes": 2864,
+    "sha256": "491565c75c82660c6bf0ca5270822717b63683fb5e917b2314010302321bba53"
+  },
+  {
     "path": "README.md",
-    "bytes": 5352,
-    "sha256": "be1dd0d80977094964dbc57072e600815ffbe6ae5427e4e2d4103dbacf37234b"
+    "bytes": 7061,
+    "sha256": "87936328394cdc70f4890c2862fa0c94e75b2fc66d4b659cafe91a350c294758"
   },
   {
     "path": "skills/codex-course-slide-design/agents/openai.yaml",
@@ -60,8 +70,18 @@
     "sha256": "837c301890e2a62a831bf3fdb5209a4b175d717d8480959f4ebbeabf8f73bc51"
   },
   {
+    "path": "templates/client-brief.md",
+    "bytes": 1917,
+    "sha256": "98e00e82475290891c9e4de316e73ffbe621257c4911731ff6fde83aa17dc173"
+  },
+  {
     "path": "templates/lesson-brief.md",
     "bytes": 585,
     "sha256": "1c5fccc61d83535fbd58029ac2be482f4f8ec9d4dd66341cb99d5160b8e92b70"
+  },
+  {
+    "path": "USAGE.md",
+    "bytes": 6175,
+    "sha256": "618032621c286011995e0448e493e0952ecf20d450b4e37705f14926b6232a38"
   }
 ]

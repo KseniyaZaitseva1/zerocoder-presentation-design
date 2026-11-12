@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+<title id="title">Система учебных презентаций</title><desc id="desc">Три части проекта: содержание, дизайн и передача файлов.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08080b"/><stop offset="1" stop-color="#211a30"/></linearGradient></defs>
+<rect width="1200" height="600" rx="24" fill="url(#bg)"/>
+<g font-family="Arial,sans-serif">
+<text x="60" y="70" fill="#8bffc0" font-size="17" letter-spacing="3">КСЕНИЯ ЗАЙЦЕВА / ОБРАЗОВАТЕЛЬНЫЙ ДИЗАЙН</text>
+<text x="56" y="155" fill="#f5f4f1" font-size="60" font-weight="700">Учебные презентации</text>
+<text x="56" y="225" fill="#c1a4ff" font-size="54" font-weight="700">с единой дизайн-системой</text>
+<text x="60" y="280" fill="#c9c7d1" font-size="24">От структуры урока — к слайдам, практике и готовому HTML</text>
+<g transform="translate(60 340)">
+<rect width="340" height="200" rx="16" fill="#17161d" stroke="#3b3547"/>
+<text x="24" y="40" fill="#8bffc0" font-size="14" letter-spacing="2">СОДЕРЖАНИЕ</text>
+<text x="24" y="80" fill="#f5f4f1" font-size="27" font-weight="700">Понятный маршрут</text>
+<path d="M35 118 H300" stroke="#585063" stroke-width="2"/><g fill="#c1a4ff"><circle cx="35" cy="118" r="7"/><circle cx="167" cy="118" r="7"/><circle cx="300" cy="118" r="7"/></g>
+<text x="24" y="158" fill="#c9c7d1" font-size="16">Понятие → пример → практика</text></g><g transform="translate(430 340)">
+<rect width="340" height="200" rx="16" fill="#17161d" stroke="#3b3547"/>
+<text x="24" y="40" fill="#8bffc0" font-size="14" letter-spacing="2">ДИЗАЙН</text>
+<text x="24" y="80" fill="#f5f4f1" font-size="27" font-weight="700">Макет под смысл</text>
+<rect x="24" y="106" width="66" height="12" rx="6" fill="#c1a4ff"/><rect x="102" y="106" width="90" height="12" rx="6" fill="#8bffc0"/><rect x="204" y="106" width="108" height="12" rx="6" fill="#f5f4f1"/>
+<text x="24" y="158" fill="#c9c7d1" font-size="16">Сетка, акценты, зона камеры</text></g><g transform="translate(800 340)">
+<rect width="340" height="200" rx="16" fill="#17161d" stroke="#3b3547"/>
+<text x="24" y="40" fill="#8bffc0" font-size="14" letter-spacing="2">ПЕРЕДАЧА</text>
+<text x="24" y="80" fill="#f5f4f1" font-size="27" font-weight="700">Готовые материалы</text>
+<text x="24" y="120" fill="#c1a4ff" font-family="Consolas,monospace" font-size="22">HTML + SKILL.md</text>
+<text x="24" y="158" fill="#c9c7d1" font-size="16">Шаблон, инструкция и бриф</text></g></g></svg>
